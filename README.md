@@ -6,6 +6,8 @@ This web app: **The Spotter Zone is an interactive web app designed for users to
 
 Time spent: **12** hours spent in total
 
+Link to website: [Click here](https://thespotterzone.netlify.app/)
+
 ## Required Features
 
 The following **required** functionality is completed:
