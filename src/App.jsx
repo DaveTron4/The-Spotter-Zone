@@ -5,10 +5,10 @@ import Home from './components/Home'
 import FooterComponent from './components/FooterComponent'
 import HeaderComponent from './components/HeaderComponent'
 import AuthForm from './components/AuthForm'
-import { supabase } from './clients/SupaBaseClient'
 import CreatePostComponent from './components/CreatePostComponent'
 import PostInfoComponent from './components/PostInfoComponent'
 import EditPostComponent from './components/EditPostComponent'
+import { supabase } from './clients/SupaBaseClient';
 
 function App() {
   const [user, setUser] = useState(null);
